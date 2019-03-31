@@ -1,0 +1,10 @@
+{
+  "simulation": "base.Scenario",
+  "simulationId": "scenario",
+  "start": 1554031969082,
+  "description": "",
+  "scenarios": ["Open home page"],
+  "assertions": [
+
+  ]
+}
